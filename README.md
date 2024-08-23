@@ -33,6 +33,7 @@ I have expertise in:
 - **Languages:** Python, Typescript, Bash
 - **Tools:** Docker, Kubernetes, Terraform, Ansible, CI/CD, Elastic, Kafka, Datadog, OpenTelemetry, 
 - **Cloud Providers:** AWS, Azure
+- **Databases:** MySql, MongoDB
 - **Security Tools:** OWASP ZAP, SonarQube, HashiCorp Vault
 
 
